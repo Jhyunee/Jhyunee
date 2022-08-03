@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E6B91E?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-7952B3?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
