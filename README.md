@@ -17,11 +17,9 @@
 ### 💡 Find me on
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
-<br>
+<br><br>
 
-<div align="right">
 ![Jhyunee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhyunee&show_icons=true&title_color=EA9595&text_color=484848&icon_color=E3B2B2)
-</div>
 
 <!--
 **Jhyunee/Jhyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
