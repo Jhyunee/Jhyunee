@@ -53,13 +53,24 @@
 
 <br><br>
 
+<h3 align="center"> ✒️ Academic Scholarship ✒️ </h3>
+<p align="center">
+  <li align="center">
+    성적우수장학금 (2022-2, 2021-1, 2020-2)
+  </li>
+  <li align="center">
+    성적향상장학금 (2022-2)
+  </li>
+</p>
+
+<br><br>
+
 <h3 align="center"> 📜 Certificate 📜 </h3>
 <p align="center">
   <li align="center">
     2023.03.26 TOEIC 940
   </li>
 </p>
-
 
 <br><br>
 
