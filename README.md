@@ -53,12 +53,22 @@
 
 <br><br>
 
+<h3 align="center"> 📜 Certificate 📜 </h3>
+<p align="center">
+  <li align="center">
+    2023.03.26 TOEIC 940
+  </li>
+</p>
+
+
+<br><br>
+
 <h3 align="center"> 💃🏻 Activity 💃🏻 </h3>
 <table align="center">
   <thead>
     <td>Term</td>
     <td>Content</td>
-    <td>Content</td>
+    <td>Place</td>
   </thead>
   <tr>
     <td>2022.06 ~ 2022.08</td>
