@@ -1,25 +1,83 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD8D8&height=250&section=header&fontColor=766868&text=Hyun's%20Github&animation=twinkling&fontSize=70)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CCABE1&height=100&section=header">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=50&duration=2000&pause=4000&color=6C5757&center=true&vCenter=true&random=false&width=650&height=130&lines=Hey+there!+Welcome+%E2%98%98%EF%B8%8F" alt="Typing SVG" /></a> 
+</div>
 
 
-### 🪧 Junghyun Kim
-* Majoring in Computer Science @Kyonggi Univ.
-* Interested in Deep Learning, NLP
 
-<br>
-
-### 🪄 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-7952B3?style=flatlogo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colaboratory-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-
-<br>
-
-### 💡 Find me on
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<h3 align="center"> 💭 Hi! It's Junghyun Kim. 💭 </h3>
+<p align="center">
+  🚀  I'm Interested in Deep Learning, especially NLP. <br> Currently studying hard to become an AI developer.</dt>
+</p>
 
 <br><br>
 
-![Jhyunee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhyunee&show_icons=true&title_color=EA9595&text_color=484848&icon_color=E3B2B2)
+<h3 align="center"> 🪄 Tech Stack 🪄 </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> </a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flatlogo=MySQL&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> </a>
+<br>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+</p>
+
+<br><br>
+
+<h3 align="center"> 💡 Find me on 💡 </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
+<div align="center">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jhyunee)](https://velog.io/@jhyunee) 
+
+</div>
+</p>
+
+<br><br>
+
+<h3 align="center"> 🎓 Education 🎓 </h3>
+<p align="center">
+  2020.03 ~ 2025.02 <br>
+  Bachelor's Degree in Computer Science @Kyonggi Univ.<br>
+  GPA : 4.24/4.5
+</p>
+
+<br><br>
+
+<h3 align="center"> 💃🏻 Activity 💃🏻 </h3>
+<table align="center">
+  <thead>
+    <td>Term</td>
+    <td>Content</td>
+    <td>Content</td>
+  </thead>
+  <tr>
+    <td>2022.06 ~ 2022.08</td>
+    <td>22년 하계 CS자기주도 프로젝트</td>
+    <td>경기대학교</td>
+  </tr>
+  <tr>
+    <td>2022.06 ~ 2022.08</td>
+    <td>AI LAB 학부연구생</td>
+    <td>경기대학교</td>
+  </tr>
+</table>
+  
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CCABE1&height=100&section=footer">
+</div>
+
 
 <!--
 **Jhyunee/Jhyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
