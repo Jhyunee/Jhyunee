@@ -93,12 +93,15 @@
   </tr>
 </table>
   
-<br><br>
+<br><br><br>
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJhyunee%2Fhit-counter&count_bg=%23DCEDCE&title_bg=%23E1CDED&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=CCABE1&height=100&section=footer">
 </div>
-
 
 <!--
 **Jhyunee/Jhyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
