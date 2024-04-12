@@ -70,6 +70,9 @@
   <li align="center">
     2023.03.26 TOEIC 940
   </li>
+  <li align="center">
+    SQLD
+  </li>
 </p>
 
 <br><br>
