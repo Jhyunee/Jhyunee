@@ -94,6 +94,11 @@
     <td>AI LAB 학부연구생</td>
     <td>경기대학교</td>
   </tr>
+  <tr>
+    <td>2024.03 ~ 2024.05</td>
+    <td><a href="https://github.com/Jhyunee/for-me">2024 하계종합학술대회 대학생 논문경진대회 은상</a></td>
+    <td>한국정보기술학회</td>
+  </tr>
 </table>
   
 <br><br><br>
