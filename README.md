@@ -48,7 +48,7 @@
 <p align="center">
   2020.03 ~ 2025.02 <br>
   Bachelor's Degree in Computer Science @Kyonggi Univ.<br>
-  GPA : 4.24/4.5
+  GPA : 4.25/4.5
 </p>
 
 <br><br>
@@ -56,7 +56,7 @@
 <h3 align="center"> ✒️ Academic Scholarship ✒️ </h3>
 <p align="center">
   <li align="center">
-    성적우수장학금 (2022-2, 2021-1, 2020-2)
+    성적우수장학금 (2024-1, 2022-2, 2021-1, 2020-2)
   </li>
   <li align="center">
     성적향상장학금 (2022-2)
@@ -71,7 +71,10 @@
     2023.03.26 TOEIC 940
   </li>
   <li align="center">
-    SQLD
+    2024.04.05 SQLD
+  </li>
+  <li align="center">
+    2024.05.18 TOPCIT 3
   </li>
 </p>
 
@@ -86,7 +89,7 @@
   </thead>
   <tr>
     <td>2022.06 ~ 2022.08</td>
-    <td>22년 하계 CS자기주도 프로젝트</td>
+    <td><a href="https://github.com/Jhyunee/team2020_gpt3_chatbot">22년 하계 CS자기주도 프로젝트 우수팀</a></td>
     <td>경기대학교</td>
   </tr>
   <tr>
@@ -98,6 +101,11 @@
     <td>2024.03 ~ 2024.05</td>
     <td><a href="https://github.com/Jhyunee/for-me">2024 하계종합학술대회 대학생 논문경진대회 은상</a></td>
     <td>한국정보기술학회</td>
+  </tr>
+  <tr>
+    <td>2024.07 ~ 2024.08</td>
+    <td>2024 Summer AI Development project</td>
+    <td>Qualcomm Institute</td>
   </tr>
 </table>
   
